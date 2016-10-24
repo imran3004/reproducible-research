@@ -1,2 +1,2 @@
 # reproducible-research
-Reproducible Research course project
+This is a GitHub repository for the course project for Reproducible Research.
